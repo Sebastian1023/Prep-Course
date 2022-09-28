@@ -1,0 +1,16 @@
+// En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará 
+a descubrir rápidamente cualquier agujero en tu comprensión.
+
+- Variables = Son datos que se registran en la computadora y que son devueltos por esta cuando se le solicitan.
+
+- Strings = Son un tipo de valores instruidos por unas reglas principales; En el contenido seran cadenas de caracteres (mayormente texto) que siempre llevaran comillas 
+de apertura e cierre.
+
+- Funciones (argumentos, `return`) = Son bloques u Agrupaciones de codigos ideados con la intención de llegar a algo. Sus argumentos que van enlazados e toman prioridad a su funcion,
+se asemejan a las variables, pero buscan una mayor interacción de los valores con el usuario. El return ayuda a evadir el scope de la función haciendo posible acceder al contenido 
+dentro de la función desde el exterior.
+
+- Declaraciones `if` = Son rutas a eventos donde su avanze, o no, es determinado por una serie  de condiciones previas; por ejemplo, si el semaforo esta en verde, podras pasar, pero
+si esta en rojo, no podras pasar.
+
+- Valores booleanos (`true`, `false`) = Es una operación que da como resultado una verdad; por ejemplo, 15 < 30 = true.
